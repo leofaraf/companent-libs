@@ -12,5 +12,7 @@ simple counter page via different ways to create
 | web-components  | 25ms      | 4.25kb      |
 | web-components2 | 25ms      | 4.25kb      |
 
-```web-components was created with shadow-dom
-web-components was create without shadow-dom```
+```
+web-components was created with shadow-dom
+web-components was create without shadow-dom
+```
